@@ -14,7 +14,7 @@ InspiroBot provides users with a daily dose of motivation and inspiration. With 
 
 ## Usage
 
-1. Visit the (http://127.0.0.1:5000).
+1. Visit the [InspiroBot website](http://127.0.0.1:5000).
 2. Receive random motivational affirmations and inspiring quotes.
 3. Explore the website for motivational content.
 
@@ -26,8 +26,8 @@ No installation required. Simply visit the InspiroBot website to start using the
 
 ## License
 
-This project is licensed under the MIT License. See the (LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or suggestions, feel free to contact the project owner at (maswwyn24@gmail.com)
+For any questions or suggestions, feel free to contact the project owner at [maswwyn24@gmail.com].
