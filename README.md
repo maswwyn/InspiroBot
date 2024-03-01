@@ -12,20 +12,22 @@ InspiroBot provides users with a daily dose of motivation and inspiration. With 
 - Get inspiring quotes to boost motivation.
 - Easy-to-use web interface.
 
-## Installation
-
-No installation required. Simply visit the [InspiroBot website](https://github.com/maswwyn/InspiroBot) to start using the application.
-
 ## Usage
 
-1. Visit the InspiroBot website.
-2. Click the "Generate" button to receive a random affirmation or quote.
-3. Enjoy your daily dose of motivation and inspiration!
+1. Visit the (http://127.0.0.1:5000).
+2. Receive random motivational affirmations and inspiring quotes.
+3. Explore the website for motivational content.
+
+Please note that the website is currently under development and may not have all features implemented yet.
+
+## Installation
+
+No installation required. Simply visit the InspiroBot website to start using the application.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the (LICENSE) file for details.
 
 ## Contact
 
-For any questions or suggestions, feel free to contact the project owner at [maswwyn24@gmail.com](mailto:maswwyn24@gmail.com).
+For any questions or suggestions, feel free to contact the project owner at (maswwyn24@gmail.com)
