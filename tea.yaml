@@ -2,5 +2,11 @@
 ---
 version: 1.0.0
 codeOwners:
-  - 'maswwyn <maswwyn24@gmail.com>'
+  - '0x6e66087197Fa0Ff3f15c070fA40c81351aEde192'
 quorum: 1
+
+Project details
+Project Name: InspiroBot
+Current teaRank: 25
+Git Source URL: https://github.com/maswwyn/InspiroBot.git
+Package Manager: pip
