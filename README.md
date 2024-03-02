@@ -21,11 +21,11 @@ python3 -m pip install inspirobot
 
 * Install using Git
 
-python3 -m pip install git+[https://github.com/maswwyn/InspiroBot]
+python3 -m pip install git+https://github.com/maswwyn/InspiroBot
 
 * Manual Installation
 
-git clone [https://github.com/maswwyn/InspiroBot]
+git clone [https://github.com/maswwyn/InspiroBot](https://github.com/maswwyn/InspiroBot)
 
 cd InspiroBot
 
@@ -39,4 +39,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 # Contact
 
-For any questions or suggestions, feel free to contact the project owner at [maswwyn24@gmail.com].
+For any questions or suggestions, feel free to contact the project owner at [maswwyn24@gmail.com](maswwyn24@gmail.com)
