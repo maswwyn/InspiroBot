@@ -25,7 +25,7 @@ python3 -m pip install git+https://github.com/maswwyn/InspiroBot
 
 * Manual Installation
 
-git clone [https://github.com/maswwyn/InspiroBot](https://github.com/maswwyn/InspiroBot)
+git clone https://github.com/maswwyn/InspiroBot
 
 cd InspiroBot
 
