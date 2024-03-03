@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="InspiroBot",
-    version="0.2.1",
+    version="0.2.2",
     author="masswyn",
     author_email="maswwyn24@gmail.com",
     description="A web application for generating random motivational affirmations and inspiring quotes.",
