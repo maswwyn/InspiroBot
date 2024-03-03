@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="InspiroBot",
-    version="0.1",
+    version="0.2",
     author="masswyn",
     author_email="maswwyn24@gmail.com",
     description="A web application for generating random motivational affirmations and inspiring quotes.",
