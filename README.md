@@ -4,7 +4,8 @@ InspiroBot is a web application for generating random motivational affirmations 
 
 # Requirements
 
-* Python 3.x
+* Python 3.11 +
+* Requests
 
 # Usage
 
@@ -17,21 +18,27 @@ Please note that the website is currently under development and may not have all
 
 * Install using PyPi (Pip)
 
-python3 -m pip install inspirobot
+pip install inspirobot
 
 * Install using Git
 
-python3 -m pip install git+https://github.com/maswwyn/InspiroBot
+pip install git+https://github.com/maswwyn/InspiroBot
 
 * Manual Installation
 
 git clone https://github.com/maswwyn/InspiroBot
 
-cd InspiroBot
+cd InspiroBot 
 
-python3 -m pip install -r requirements.txt
+pip install -r requirements.txt
 
-python3 -m pip install .
+pip install .
+
+* Running the Script and Web Application 
+
+python inspirobot.py
+
+python app.py
 
 # License
 
@@ -39,4 +46,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 # Contact
 
-For any questions or suggestions, feel free to contact the project owner at [maswwyn24@gmail.com](maswwyn24@gmail.com)
+For any questions or suggestions, feel free to contact the project owner at maswwyn24@gmail.com.
