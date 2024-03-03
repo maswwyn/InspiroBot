@@ -23,7 +23,7 @@ setup(
         "Flask==3.0.2",
         "idna==3.6",
         "importlib-metadata==7.0.1",
-        "InspiroBot==0.2.1",
+        "InspiroBot==0.2.2",
         "itsdangerous==2.1.2",
         "jaraco.classes==3.3.1",
         "Jinja2==3.1.3",
